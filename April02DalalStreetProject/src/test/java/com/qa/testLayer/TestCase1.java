@@ -40,5 +40,22 @@ public class TestCase1 extends TestBase {
 		System.out.println(trade.getStatus());
 		Assert.assertEquals(trade.getStatus(), "Order Created successfully");
 	}
+	
+	@Test
+	public void buyShare3() throws InterruptedException
+	{
+		Thread.sleep(3000);
+		dash.enterCompanyName("TCS");
+		Thread.sleep(2000);
+		dash.selectOptionTCS();
+		//--------------------------
+		Thread.sleep(2000);
+		trade.clickOnBuyButton1();
+		trade.enterQauntityOfShares("5");
+		trade.clickOnBuyButton2();
+		Thread.sleep(2000);
+		System.out.println(trade.getStatus());
+		Assert.assertEquals(trade.getStatus(), "Order Created successfully");
+	}
 
 }
