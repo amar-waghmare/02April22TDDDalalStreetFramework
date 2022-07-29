@@ -43,4 +43,14 @@ public class DashboardPage extends TestBase {
 		 Actions act = new Actions(driver);
 		 act.moveToElement(wipro_option).click().build().perform();
 	}
+	
+	//select option 
+	@FindBy(partialLinkText="TCS")
+	private WebElement tcs_option;
+	
+	public void selectOptionTCS()
+	{
+		 Actions act = new Actions(driver);
+		 act.moveToElement(tcs_option).click().build().perform();
+	}
 }
