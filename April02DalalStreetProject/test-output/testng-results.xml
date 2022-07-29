@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T08:40:43 IST" name="Suite" finished-at="2022-07-22T08:41:58 IST" duration-ms="74899">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T08:40:43 IST" name="Test" finished-at="2022-07-22T08:41:58 IST" duration-ms="74899">
+      <class name="com.qa.testLayer.TestCase1">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:40:43 IST" name="start" finished-at="2022-07-22T08:40:43 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:40:43 IST" name="setUp" finished-at="2022-07-22T08:41:18 IST" duration-ms="34203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyShare1()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:18 IST" name="buyShare1" finished-at="2022-07-22T08:41:29 IST" duration-ms="11122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyShare1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:29 IST" name="tearDown" finished-at="2022-07-22T08:41:29 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:29 IST" name="setUp" finished-at="2022-07-22T08:41:47 IST" duration-ms="17282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyShare2()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:47 IST" name="buyShare2" finished-at="2022-07-22T08:41:57 IST" duration-ms="10242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyShare2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:57 IST" name="tearDown" finished-at="2022-07-22T08:41:58 IST" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.TestCase1@223d2c72]" started-at="2022-07-22T08:41:58 IST" name="stop" finished-at="2022-07-22T08:41:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

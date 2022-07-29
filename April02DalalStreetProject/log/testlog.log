@@ -1,0 +1,27 @@
+2022-07-22 08:39:37,634 - Automation testing framework -INFO - Framework execution started
+2022-07-22 08:39:48,063 - Automation testing framework -INFO - Chrome launches
+2022-07-22 08:40:08,141 - Automation testing framework -INFO - url launches
+2022-07-22 08:40:08,460 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-22 08:40:08,918 - Automation testing framework -INFO - logged in
+2022-07-22 08:40:43,841 - Automation testing framework -INFO - Framework execution started
+2022-07-22 08:40:52,926 - Automation testing framework -INFO - Chrome launches
+2022-07-22 08:41:16,801 - Automation testing framework -INFO - url launches
+2022-07-22 08:41:17,205 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-22 08:41:18,097 - Automation testing framework -INFO - logged in
+2022-07-22 08:41:18,113 - Automation testing framework -INFO - Test Case execution started
+2022-07-22 08:41:26,915 - Automation testing framework -INFO - clicked on buy1
+2022-07-22 08:41:27,038 - Automation testing framework -INFO - count provied
+2022-07-22 08:41:27,129 - Automation testing framework -INFO - clicked on buy2
+2022-07-22 08:41:29,227 - Automation testing framework -INFO - Test Case execution completed
+2022-07-22 08:41:29,802 - Automation testing framework -INFO - browser closed
+2022-07-22 08:41:33,923 - Automation testing framework -INFO - Chrome launches
+2022-07-22 08:41:46,230 - Automation testing framework -INFO - url launches
+2022-07-22 08:41:46,607 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-22 08:41:47,082 - Automation testing framework -INFO - logged in
+2022-07-22 08:41:47,087 - Automation testing framework -INFO - Test Case execution started
+2022-07-22 08:41:55,090 - Automation testing framework -INFO - clicked on buy1
+2022-07-22 08:41:55,167 - Automation testing framework -INFO - count provied
+2022-07-22 08:41:55,245 - Automation testing framework -INFO - clicked on buy2
+2022-07-22 08:41:57,328 - Automation testing framework -INFO - Test Case execution completed
+2022-07-22 08:41:58,267 - Automation testing framework -INFO - browser closed
+2022-07-22 08:41:58,269 - Automation testing framework -INFO - Framework execution Stopped
