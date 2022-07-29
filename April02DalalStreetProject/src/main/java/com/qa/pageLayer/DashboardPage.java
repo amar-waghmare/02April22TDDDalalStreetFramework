@@ -43,4 +43,14 @@ public class DashboardPage extends TestBase {
 		 Actions act = new Actions(driver);
 		 act.moveToElement(wipro_option).click().build().perform();
 	}
+	
+	//select option 
+	@FindBy(partialLinkText="Tech Mahindra")
+	private WebElement techmahindra_option;
+	
+	public void selectOptionTechMahindra()
+	{
+		 Actions act = new Actions(driver);
+		 act.moveToElement(techmahindra_option).click().build().perform();
+	}
 }

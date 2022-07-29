@@ -25,3 +25,29 @@
 2022-07-22 08:41:57,328 [main] INFO Automation testing framework - Test Case execution completed
 2022-07-22 08:41:58,267 [main] INFO Automation testing framework - browser closed
 2022-07-22 08:41:58,269 [main] INFO Automation testing framework - Framework execution Stopped
+2022-07-29 09:27:56,898 [main] INFO Automation testing framework - Framework execution started
+2022-07-29 09:28:04,589 [main] INFO Automation testing framework - Chrome launches
+2022-07-29 09:28:17,833 [main] INFO Automation testing framework - url launches
+2022-07-29 09:28:18,131 [main] INFO Automation testing framework - maximized browser provided proper waits
+2022-07-29 09:28:18,676 [main] INFO Automation testing framework - logged in
+2022-07-29 09:28:18,694 [main] INFO Automation testing framework - Test Case execution started
+2022-07-29 09:28:26,759 [main] INFO Automation testing framework - clicked on buy1
+2022-07-29 09:28:26,843 [main] INFO Automation testing framework - count provied
+2022-07-29 09:28:26,944 [main] INFO Automation testing framework - clicked on buy2
+2022-07-29 09:28:29,045 [main] INFO Automation testing framework - Test Case execution completed
+2022-07-29 09:28:29,831 [main] INFO Automation testing framework - browser closed
+2022-07-29 09:28:33,931 [main] INFO Automation testing framework - Chrome launches
+2022-07-29 09:28:46,893 [main] INFO Automation testing framework - url launches
+2022-07-29 09:28:47,248 [main] INFO Automation testing framework - maximized browser provided proper waits
+2022-07-29 09:28:47,983 [main] INFO Automation testing framework - logged in
+2022-07-29 09:28:47,987 [main] INFO Automation testing framework - Test Case execution started
+2022-07-29 09:28:56,141 [main] INFO Automation testing framework - clicked on buy1
+2022-07-29 09:28:56,249 [main] INFO Automation testing framework - count provied
+2022-07-29 09:28:56,370 [main] INFO Automation testing framework - clicked on buy2
+2022-07-29 09:28:58,473 [main] INFO Automation testing framework - Test Case execution completed
+2022-07-29 09:28:59,066 [main] INFO Automation testing framework - browser closed
+2022-07-29 09:29:03,233 [main] INFO Automation testing framework - Chrome launches
+2022-07-29 09:29:15,805 [main] INFO Automation testing framework - url launches
+2022-07-29 09:29:16,183 [main] INFO Automation testing framework - maximized browser provided proper waits
+2022-07-29 09:29:16,647 [main] INFO Automation testing framework - logged in
+2022-07-29 09:29:16,649 [main] INFO Automation testing framework - Test Case execution started

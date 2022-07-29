@@ -25,3 +25,29 @@
 2022-07-22 08:41:57,328 - Automation testing framework -INFO - Test Case execution completed
 2022-07-22 08:41:58,267 - Automation testing framework -INFO - browser closed
 2022-07-22 08:41:58,269 - Automation testing framework -INFO - Framework execution Stopped
+2022-07-29 09:27:56,898 - Automation testing framework -INFO - Framework execution started
+2022-07-29 09:28:04,589 - Automation testing framework -INFO - Chrome launches
+2022-07-29 09:28:17,833 - Automation testing framework -INFO - url launches
+2022-07-29 09:28:18,131 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-29 09:28:18,676 - Automation testing framework -INFO - logged in
+2022-07-29 09:28:18,694 - Automation testing framework -INFO - Test Case execution started
+2022-07-29 09:28:26,759 - Automation testing framework -INFO - clicked on buy1
+2022-07-29 09:28:26,843 - Automation testing framework -INFO - count provied
+2022-07-29 09:28:26,944 - Automation testing framework -INFO - clicked on buy2
+2022-07-29 09:28:29,045 - Automation testing framework -INFO - Test Case execution completed
+2022-07-29 09:28:29,831 - Automation testing framework -INFO - browser closed
+2022-07-29 09:28:33,931 - Automation testing framework -INFO - Chrome launches
+2022-07-29 09:28:46,893 - Automation testing framework -INFO - url launches
+2022-07-29 09:28:47,248 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-29 09:28:47,983 - Automation testing framework -INFO - logged in
+2022-07-29 09:28:47,987 - Automation testing framework -INFO - Test Case execution started
+2022-07-29 09:28:56,141 - Automation testing framework -INFO - clicked on buy1
+2022-07-29 09:28:56,249 - Automation testing framework -INFO - count provied
+2022-07-29 09:28:56,370 - Automation testing framework -INFO - clicked on buy2
+2022-07-29 09:28:58,473 - Automation testing framework -INFO - Test Case execution completed
+2022-07-29 09:28:59,066 - Automation testing framework -INFO - browser closed
+2022-07-29 09:29:03,233 - Automation testing framework -INFO - Chrome launches
+2022-07-29 09:29:15,805 - Automation testing framework -INFO - url launches
+2022-07-29 09:29:16,183 - Automation testing framework -INFO - maximized browser provided proper waits
+2022-07-29 09:29:16,647 - Automation testing framework -INFO - logged in
+2022-07-29 09:29:16,649 - Automation testing framework -INFO - Test Case execution started
